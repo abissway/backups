@@ -4,8 +4,6 @@ title BIENVENIDO AL PROGRAMA
 :menuprincipal
 echo. 
 cls 
-Xcopy  "\\192.168.1.6\rx\AUTO\correccions\Informes" "C:\AUTO\informes" /Y
-Xcopy  "\\192.168.1.6\rx\AUTO\correccions\imagen" "C:\AUTO\imagen" /Y
 Xcopy  "\\192.168.1.6\rx\AUTO\correccions\Informes2015" "C:\AUTO\informes2015" /Y
 Xcopy  "\\192.168.1.6\rx\AUTO\correccions\imagen2015" "C:\AUTO\imagen2015" /Y
 
